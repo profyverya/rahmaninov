@@ -8,7 +8,7 @@ p {text-align: justify;}
     right: 0px;
     top: 0px;
     height: 65px;
-    background: #0000FF;
+    background: #edc1a6;
     text-align: center;
 }
 #nav {
@@ -40,7 +40,7 @@ p {text-align: justify;}
 }
 blockquote:before, blockquote:after {
   font-size: 3em;
-  color: #800;
+  color: #edc1a6;
 }
 blockquote:before {
   content: '«';
