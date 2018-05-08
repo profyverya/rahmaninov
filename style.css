@@ -40,7 +40,7 @@ p {text-align: justify;}
 }
 blockquote:before, blockquote:after {
   font-size: 3em;
-  color: #edc1a6;
+  color: #d8a98c;
 }
 blockquote:before {
   content: '«';
