@@ -38,6 +38,10 @@ p {text-align: justify;}
 .right img {
   width: 100%;
 }
+.right i,{
+  text-align: center;
+  background-color: #a2ef9b;
+}
 blockquote:before, blockquote:after {
   font-size: 3em;
   color: #d8a98c;
