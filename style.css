@@ -38,3 +38,20 @@ p {text-align: justify;}
 .right img {
   width: 100%;
 }
+blockquote:before, blockquote:after {
+  font-size: 3em;
+  color: #800;
+}
+blockquote:before {
+  content: '«';
+  float: left;
+  margin-top: -0.4em;
+}
+blockquote:after {
+  content: '»';
+  float: right;
+  margin-top: -1.2em;
+}
+blockquote p {
+  margin: 1em 3em;
+}
