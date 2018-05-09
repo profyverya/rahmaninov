@@ -64,7 +64,7 @@ blockquote {
 }
 blockquote:before, blockquote:after {
   font-size: 3em;
-  color: #c1172c;
+  color: #edc1a6;
 }
 blockquote:before {
   content: '«';
@@ -88,4 +88,5 @@ blockquote p {
 div::after{
   content: attr(n);
   text-align: center;
+  color:
 }
