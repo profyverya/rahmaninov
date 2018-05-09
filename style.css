@@ -35,6 +35,10 @@ p {text-align: justify;}
     left: 170px;
     bottom: 0; right: 0;
 }
+#main-content {
+  width: 60%;
+  min-width: 200px;
+}
 .right {
   float: right;
   background: #F3F0E9;
