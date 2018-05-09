@@ -71,3 +71,8 @@ blockquote:after {
 blockquote p {
   margin: 1em 3em;
 }
+.image {
+  float:right;
+  width: 15%;
+  border: 1px, solid, #000;
+}
