@@ -81,3 +81,7 @@ blockquote p {
   min-width: 200px;
   border: 1px, solid, #000;
 }
+.signature::after{
+  content: attr(n);
+  text-align: center;
+}
