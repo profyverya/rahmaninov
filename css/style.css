@@ -1,4 +1,4 @@
-body { margin: 0; }
+body { margin: 0; user-select: none; }
 p {text-align: justify;}
 #nav, #content { position: absolute; }
 #nav, #content { overflow: auto; padding: 10px; }
