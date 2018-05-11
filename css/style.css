@@ -1,5 +1,5 @@
-body { margin: 0; user-select: none; }
-p {text-align: justify;}
+body { margin: 0; }
+p {text-align: justify; user-select: none; }
 #nav, #content { position: absolute; }
 #nav, #content { overflow: auto; padding: 10px; }
 #nav a:visited {
