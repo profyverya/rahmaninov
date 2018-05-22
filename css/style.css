@@ -23,6 +23,7 @@ p {text-align: justify; -ms-user-select: none; -moz-user-select: none; -webkit-u
     border-right: 1px solid #231F20;
     top: 67px;
     bottom: 0;
+    list-style-type: none;
 }
 #content {
     top: 67px;
