@@ -82,5 +82,6 @@ blockquote p {
 }
 div::after{
   content: attr(n);
+  display: inline-block;
   text-align: center;
 }
